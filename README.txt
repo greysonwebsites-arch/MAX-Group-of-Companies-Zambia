@@ -16,3 +16,6 @@ To publish on GitHub Pages:
 5. Save and open the generated GitHub Pages URL.
 
 Before launch, replace/add the public phone number, email, physical address and social links you want displayed.
+
+
+V3: Improved MAX Apartments with separate Home Buyer and Property Investor benefits. Main MAX Group contact: +260 977472976. Branding: blue, white and yellow.
